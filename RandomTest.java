@@ -4,8 +4,8 @@ public class RandomTest {
     public static void main(String[] args) {
         Random random = new Random();   
 
-        String[] name ={"ë¡¤", "ì˜¤ë²„ì›Œì¹˜", "ìŠ¤íƒ€","í”¼íŒŒ"};
+        String[] name ={"ÀÓÂù¹Î", "ÀÓÁÖÇÑ", "ÃÖ¼­Àº","ÀÌ»§ÁØ"};
 
-        System.out.println("ë§ê²œì€ " + name[random.nextInt(4)]);
+        System.out.println("º´½ÅÀº " + name[random.nextInt(4)]);
     }
 }
