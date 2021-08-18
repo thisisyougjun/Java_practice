@@ -1,3 +1,4 @@
+package zoo;
 public class HouseDog extends Dog {
     
     public HouseDog(String name){

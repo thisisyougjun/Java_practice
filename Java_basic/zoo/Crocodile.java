@@ -1,0 +1,7 @@
+package zoo;
+
+public class Crocodile extends Animal implements Predator{
+    public String getfood(){
+        return "meet";
+    }
+}
