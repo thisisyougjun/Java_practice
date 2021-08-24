@@ -1,3 +1,6 @@
+
+package Java_basic;
+
 public class Method2 {
     int a;
     public void myTest(){

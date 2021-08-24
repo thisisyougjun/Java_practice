@@ -1,3 +1,5 @@
+package Java_basic;
+
 public class while_test {
     public static void main(String[] args) {
         int a=0;

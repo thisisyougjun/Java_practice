@@ -1,3 +1,8 @@
+package Java_basic;
+
+import java.util.*;
+import java.io.*;
+
 public class Arr {
  public static void main(String[] args) {
      String weeks []={"월","화","수","목","금","토","일"};

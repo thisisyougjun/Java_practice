@@ -1,3 +1,5 @@
+package Java_basic;
+
 public class num {
     public static void main(String[] args) {
         int num1[]={90,25,67,45,80};

@@ -1,4 +1,4 @@
-package zoo;
+package Java_basic.zoo;
 public class Bouncer {
     public void barkAnimal(Barkable animal) {
         animal.bark();       

@@ -1,5 +1,4 @@
-package zoo;
-public class HouseDog extends Dog {
+package Java_basic.zoo;public class HouseDog extends Dog {
     
     public HouseDog(String name){
         this.setName(name);

@@ -1,3 +1,5 @@
+package Java_basic;
+
 public class Euler1{
     int max;
     public Euler1(int max){

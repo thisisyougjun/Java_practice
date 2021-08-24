@@ -1,3 +1,5 @@
+package Java_basic;
+
 public class Duck {
     public static void main(String[] args) {
         int Hr = 17;

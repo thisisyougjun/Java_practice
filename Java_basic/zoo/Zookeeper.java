@@ -1,4 +1,4 @@
-package zoo;
+package Java_basic.zoo;
 public class Zookeeper {
     public void feed(Predator predator){
         System.out.println("feed" + " " +predator.getfood());

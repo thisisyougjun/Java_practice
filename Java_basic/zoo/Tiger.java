@@ -1,5 +1,4 @@
-package zoo;
-
+package Java_basic.zoo;
 public class Tiger extends Animal implements Predator, Barkable{
     public String getfood(){
         return "apple";

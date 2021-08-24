@@ -1,3 +1,5 @@
+package Java_basic;
+
 public class Method1 {
     
     public String test(){

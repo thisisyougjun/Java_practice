@@ -1,4 +1,4 @@
-package zoo;
+package Java_basic.zoo;
 public class Animal {
     String name;
     public void setName(String name) {

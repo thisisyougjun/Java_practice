@@ -1,3 +1,5 @@
+package Java_basic;
+
 public class GuGu3 {
     int dan;
 

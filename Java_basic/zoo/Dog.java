@@ -1,5 +1,4 @@
-package zoo;
-public class Dog extends Animal {
+package Java_basic.zoo;public class Dog extends Animal {
     
     public Dog(){
         

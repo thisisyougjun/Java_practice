@@ -1,3 +1,5 @@
+package Java_basic;
+
 import java.util.Scanner;
 
 public class test3 {
